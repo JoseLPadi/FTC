@@ -1,2 +1,2 @@
-# FTC
+# CoTeFer
 Fermentator Temperature Controller
